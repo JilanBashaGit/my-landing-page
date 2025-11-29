@@ -1,30 +1,91 @@
-# My Landing Page 
+# 🏥 Responsive Clinic Landing Page  
+A fully responsive landing page built using **HTML, CSS, and JavaScript** as part of an assignment project.  
+This project replicates selected sections from a provided Figma design and is deployed using Netlify.
 
-Simple responsive landing page built with HTML, CSS and JavaScript.
+---
 
-## Local preview (what to do)
-1. Open this folder in VS Code.
-2. Open `index.html` in your browser:
-   - Right-click `index.html` → Open with Default Browser
-   - OR install a VS Code extension like "Live Server" and click "Go Live".
+## 🚀 Live Demo  
+🔗 **View Website:** https://idyllic-pithivier-c3294e.netlify.app
 
-## Deploy to GitHub Pages (quick steps)
-1. Create GitHub account (if you don't have one) at https://github.com.
-2. Create a new repository named `my-landing-page` (public).
-3. On your PC open Terminal (or VS Code integrated terminal):
-   - `cd` into the project folder.
-   - Run these commands:
-     ```
-     git init
-     git add .
-     git commit -m "Initial commit"
-     git branch -M main
-     git remote add origin https://github.com/JilanBashaGit/my-landing-page.git
-     git push -u origin main
-     ```
-4. Go to your GitHub repo → Settings → Pages → Under "Source" choose `main` branch and `/ (root)` → Save.
-5. After a minute, your site will be live at: `https://YOUR_USERNAME.github.io/my-landing-page/`
+---
 
-## Notes
-- No frameworks used. Only vanilla JS.
-- If you prefer I can give step-by-step GitHub screenshots — just ask.
+## 📌 Features  
+- Fully responsive layout (Mobile, Tablet, Desktop)  
+- Clean and semantic HTML  
+- CSS Flexbox & Grid  
+- JavaScript for mobile navigation toggle  
+- Professional design based on Figma mockup  
+- Deployed using Netlify  
+- Simple and beginner-friendly code structure  
+
+---
+
+## 🧩 Sections Implemented  
+1. Navigation Bar  
+2. Hero Section  
+3. About Us  
+4. Services Section  
+5. Testimonials Section  
+6. Contact Section  
+7. Footer  
+
+---
+
+## 🛠️ Tech Stack  
+- **HTML5**  
+- **CSS3**  
+- **JavaScript (Vanilla JS)**  
+- **GitHub**  
+- **Netlify Deployment**
+
+---
+
+## 📁 Project Structure
+my-landing-page/
+├── index.html
+├── css/
+│ └── style.css
+├── js/
+│ └── script.js
+├── images/
+│ ├── hero.jpg
+│ ├── about.jpg
+│ ├── service1.jpg
+│ ├── service2.jpg
+│ └── service3.jpg
+└── README.md
+
+
+
+
+
+---
+
+## 📸 Screenshots
+
+### 🖥️ Desktop View
+![Desktop Screenshot](https://via.placeholder.com/1200x600?text=Desktop+Screenshot)
+
+### 📱 Mobile View
+![Mobile Screenshot](https://via.placeholder.com/400x800?text=Mobile+Screenshot)
+
+*(Replace the above placeholder URLs with real screenshots later.)*
+
+---
+
+## 🚀 Deployment  
+The website is deployed using **Netlify**.  
+You can redeploy by uploading a new ZIP or connecting GitHub for auto-deployment.
+
+---
+
+## 👨‍💻 Author  
+**Jilan Basha**  
+- GitHub: https://github.com/JilanBashaGit  
+- Portfolio (coming soon)
+
+---
+
+## ⭐ If you like this project  
+Give it a ⭐ on GitHub — it helps my profile grow!
+
