@@ -1,4 +1,4 @@
-# My Landing Page - Test Assignment
+# My Landing Page 
 
 Simple responsive landing page built with HTML, CSS and JavaScript.
 
